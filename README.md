@@ -49,4 +49,9 @@ In this project, We are working on how to predict imdb rating classes. The score
     4.3 Make a pipeline for data prediction
     4.4 Interpretation of classification models results
 
-**5.  Conclusions**
+**5.  Conclusions** 
+
+- The Neural-network model is the optimized model to predict IMDb rating class. 
+- User_vote, gross, ratio of critic reviews’,  duration,  Facebook likes to director and actor_1 are very important variables, while face number in post, content and country are not so crucial to the quality of the movies.
+
+
